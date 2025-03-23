@@ -289,7 +289,7 @@
 			<dependency>
 				<groupId>org.springframework.security</groupId>
 				<artifactId>spring-security-crypto</artifactId>
-				<version>3.2.9.RELEASE</version>
+				<version>6.3.8</version>
 			</dependency>
 			<dependency>
 				<groupId>cglib</groupId>
